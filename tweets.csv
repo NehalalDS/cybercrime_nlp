@@ -1,0 +1,474 @@
+tweet_id,date,text,user_name,user_location,user_description,user_created,user_followers,user_friends,user_favourites,hashtags,source,is_retweet
+1.47058E+18,2021-12-14 02:36:09+00:00,"I've avoided a hot take on the log4j situation because frankly I'm tired of tech hot takes. However, my not hot take hot take is that bugs happen, some of them very bad, and they occur for a set of complex reasons. \",Matt Klein,Idaho,Plumber @lyft. @envoyproxy creator. CNCF GB. Husband of @rjoslyn & dad. Office hours available on my website.,2011-06-04 14:03:52+00:00,20169,203,3181,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:35:54+00:00,@RSnake Right? Whoever started calling it log4shell clearly wasn't pronouncing log4j as logforge.,George Furbish,"NYC, USA","Physics PhD candidate studying complex systems/netsci. Grudging altruist, frequently wrong. There's the hard way and there's the wrong way; pick one.",2010-02-18 06:11:41+00:00,811,637,31405,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:35:45+00:00,@jobertabma @Hacker0x01 Please give insight for the rewarded log4j stats 🙃,Abdillah Hasny,Indonesia,"https://t.co/GJ0x1ASxQh | https://t.co/twLUSeXvPS  |
+I do Web Exploitation & CTF Player || Security Consultant @vantagepointsec",2012-09-06 10:35:24+00:00,866,1296,4415,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:35:44+00:00,I was just talking about the impact of this vulnerability today. Log4j supports MQTT broker. https://t.co/jbI0vIqOHU https://t.co/AM436VNep9,Cimone Wright,USA,Cybersecurity Researcher | Software Architect | Conscious Capitalist,2019-11-19 00:13:24+00:00,41,203,241,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:35:10+00:00,Is it me or did the Internet miss a golden opportunity to name the log4j vuln “logjam”?,Robert Hansen,,"CTO, CISO, defender of others' privacy, Advisor, often found joking.",2008-07-28 20:25:37+00:00,36893,922,920,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:34:04+00:00,Just remember: billions of devices run Java. #log4j,JoBrad,"Nashville, TN","Integration Manager at i3 Verticals. If it beeps, boops, or approaches c, I'm probably going to like it.",2008-07-14 14:20:46+00:00,267,372,20061,['log4j'],Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:33:59+00:00,"What You Need to Know About Log4j: the Nasty Software Bug
+Posing a Major Threat to Small Businesses | SSFEED
+A multitude of apps may be vulnerable.
+#ssfeed
+https://t.co/qcMon9qMuT #cryptocurrency #crypto #altseason #defi #enrichedfeed #smartcontracts #furucombo #dex #cex",EFeeds,United States,"Crypto Research and investing news
+$ada, $btc, $eth, $sol, $axs, $defi, $crypto,$xtz",2017-10-03 14:42:09+00:00,1614,877,104320,,bFol05,FALSE
+1.47058E+18,2021-12-14 02:33:25+00:00,Repeat after me : #log4j rules the world. Is that a good thing?,Stacey,"Boston, MA",Project Management | Founder of the nonprofit Culture x Community which builds antiracist communities one family at a time.,2008-10-11 02:04:52+00:00,614,1088,2334,['log4j'],Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:33:23+00:00,"@Fallenstedt Yeah, just run a log4j exploit on a Minecraft server and set it up",Jason Brown,"Portland, Oregon","All the things #react #reactnative #hasura
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜",2012-04-08 03:35:20+00:00,5018,734,13632,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:33:10+00:00,"That is true. Due to the severity doing an incident response should be the next step. 
+#DFIR #log4j https://t.co/CJCYMBNHYn",drop ,,"Digital Forensics Specialist @PwC | #DFIR, #OSINT Enthusiast | Views are my own.",2020-04-07 20:10:50+00:00,257,300,1971,"['DFIR', 'log4j']",Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:32:57+00:00,What’s your biggest challenge with fixing #log4j? https://t.co/Q3pACDQfLW,Sourcegraph,All Remote 🌏,"One universal tool to learn, find, and fix across all the code you care about. Any host, any repo, any language.",2013-06-10 06:43:33+00:00,14389,2378,3938,['log4j'],Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:32:19+00:00,"Though Pelias uses Elasticsearch, we do not believe it is possible to exploit the new #log4shell log4j vulnerability through Pelias
+
+Please follow this GitHub issue for the latest details and updates
+
+https://t.co/1SfYZqNHxe",Pelias Geocoder,"0, 0",An open source geocoder build on Elasticsearch and Node.js,2018-05-02 16:51:49+00:00,319,13,25,['log4shell'],Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:32:05+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/ETx6SotnAx https://t.co/ZUlue9rhGW,Tech Talk,,Follow us to get Instant tech updates curated from popular Publishers.,2014-08-06 06:42:30+00:00,84,116,111,,dlvr.it,FALSE
+1.47058E+18,2021-12-14 02:31:59+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/MMatUR7NRy,Infiniti Cloud,"Watford, England","Infiniti Cloud Solutions are IT and Network Support specialists, allow us to manage all of your IT requirements, so you can just concentrate on your business !!",2014-07-05 04:16:29+00:00,389,809,23,,WordPress.com,FALSE
+1.47058E+18,2021-12-14 02:31:59+00:00,"#うひーメモ
+投稿時間:2021-12-14 11:31:58
+The Log4J Vulnerability Will Haunt the Internet for Years
+https://t.co/dXjdmTeySi
+#海外TECH",【自動化した】うひーまん,,"こんにちわうひーマンです。
+本体は↓コイツです。
+https://t.co/KyLzAPcfo4
+
+すでに読んだ記事や後で読もうと思った記事なんかをストックしている場所です。24時間フル稼働しています。
+人ではありませんので、悪しからず。",2020-02-29 04:22:27+00:00,224,763,0,"['うひーメモ', '海外TECH']",uhiiman_bot,FALSE
+1.47058E+18,2021-12-14 02:31:37+00:00,The Log4J Vulnerability Will Haunt the Internet for Years - https://t.co/fDPXdm6tVM https://t.co/vbpQVFHSqc,Digitallifestyleserve,,"#makemoneyonline, #blogs #makepassiveincomeonline, #onlineentrepreneur #dotcomlifestyle, #SEO ,#contentmarketer , #digitallifestyle & #digitalbreakingnews",2017-12-09 22:16:29+00:00,1780,17,1,,digitallifestyleserve,FALSE
+1.47058E+18,2021-12-14 02:31:09+00:00,"I'm raising $2,245.00 until 12/27/2021 for Help get Home for Christmas. Can you help? https://t.co/BhejRij7fb #Homeless #NoWayHome #MissUniverse2021 #MaxVerstappen #LastDecemberWithout #helpinghand #HappyHolidays #MerryChristmas #log4j #MadeInChelsea #แอนชิลี #WeLoveYouJimin https://t.co/ymo3gYbvAU",Brian Leahy,"Tucson, AZ",Leahy Laboratories is my company I’m starting. I’m currently homeless with my wife living in our car. We’re just trying to survive after COVID took so much.,2021-02-24 20:44:48+00:00,10,250,32,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:31:09+00:00,"@SvenApel @acm_tosem Working on a diverse set of fixes for some #Log4J affected infrastructure, I need to go to bed now, but briefly reading through the abstract of your paper, my Twitter bubble obviously makes sure to keep me busy also during the X-Mas break ;-) Looking forward to read all of it!",Frederik Kramer,Hamburg / Magdeburg,"CEO at initOS GmbH, Affiliate Researcher at Otto-von-Guericke-University (OVGU) Magdeburg. Views are my own and do not necessarily reflect those of my company",2011-01-25 19:24:41+00:00,388,279,663,['Log4J'],Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:31:07+00:00,security news today #log4j https://t.co/uRR8kg1uW5,Isriya Paireepairit,"Bangkok, Thailand",I co-founded @blognone @siu_thailand @wekorat @twobaht @brandinsideasia.,2007-09-29 08:08:48+00:00,83107,2258,1419,['log4j'],Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:30:55+00:00,Zabbix NOT AFFECTED by the Log4j exploit https://t.co/EV7U818pRp,Dirk Steinkopf,"München, Bayern, Deutschland","Interessantes aus Netz, Mobile und M-Commerce",2009-06-01 05:35:20+00:00,165,192,1031,,IFTTT,FALSE
+1.47058E+18,2021-12-14 02:30:52+00:00,"Today's small ""good news"": vsphere isn't impacted by log4j https://t.co/egnaxoU9DL",Aliz,Singapore,"Fuzzing/exploitation/general hackery.
+Brit, living in Singapore for ~5 years. Too hot lah. 
+Fairly trans. Pronouns are they/them. Nonbinary, I think.",2011-10-10 06:25:03+00:00,688,928,48182,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:30:50+00:00,Log4j update: Experts say log4shell exploits will persist for 'months if not years'  https://t.co/FM2Qr4oiMJ via @ZDNet,Dr. Joseph Frusci,"New York, NY",Adj Asst Prof @CUNY. Words @MHEducation @saberscroll @siadvance. Creator of The Average Joe edu & info platform. Vet @USarmy #Twitterstorians #infosec #techgeek,2011-06-01 19:24:23+00:00,3016,3467,20974,,GroupTweet,FALSE
+1.47058E+18,2021-12-14 02:30:49+00:00,"If you were not nice to your people in the recent days you are not a leader
+
+Now go and give your people BOTH time off and $$$
+
+Remember - people first. Remediation second
+
+Break all the rules to make that happen :) #log4j",Michal,World citizen (São Paulo),"Adventure & Impact seeker
+Fitness & Travel addict
+Adrenaline. Brazil. Languages
+#stayhungry",2012-06-26 18:32:05+00:00,863,272,5597,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:30:49+00:00,"I have survived day 4 of log4j.
+
+I am fueled by caffeine and rage.
+
+Caffeine, rage, and the undying hope that some latex lovely will entice me to forget all about this.
+
+Who am I kidding?",APT 303 is Infosec Zathras.,Denver CO,"Unix, Networks, Infosuck, shooter.  Likes coffee, beer, latex, computing products that don't suck. Runs @dcskytalks. Opinions my own, RT/Fav/Follow≠Endorsement.",2007-12-19 18:17:40+00:00,1898,2319,9548,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:30:47+00:00,"Analysis - Log4j doesn't just blow a hole in your servers, it's reopening that can of worms: Is Big Biz exploiting open source? Would more money have prevented this security flaw? Would the cash be useful in other ways anyway? | https://t.co/woCjVnYZO6",ZAQS Tech News,"Boston, MA",We post the latest Tech News from the ZAQS News Aggregator at https://t.co/wAx7mUC224,2018-03-01 00:35:43+00:00,878,837,87,,ZAQS Tech,FALSE
+1.47058E+18,2021-12-14 02:30:38+00:00,Simple script I have been using for Windows machines to find log4j jar files. https://t.co/UM5iFz3YVh,Shak The Hack,"London, Dubai","Security Architect, IT Pro, Geek on 🔥, Jack of Infosec, Master of Disaster, interests in #Cyber #Cloud #Azure #AWS #Hacking, opinions are my own 🙄",2018-05-20 22:54:39+00:00,2025,1787,6006,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:30:10+00:00,Log4j update: Experts say log4shell exploits will persist for 'months if not years'  https://t.co/YIIlr9giGp,ZDNet,USA | UK | Asia | Australia,Where technology means business,2007-04-08 21:05:10+00:00,464012,204,333,,True Anthem,FALSE
+1.47058E+18,2021-12-14 02:30:09+00:00,The #Log4J #Vulnerability Will Haunt the Internet for Years https://t.co/jLIXMDSyct #Wired,Security News Bot,Internet,Tweeting all things #InfoSec #Cybercrime #DDoS #Malware #Hackers #Vuln #Botnet and more.,2014-05-03 18:08:14+00:00,13931,9411,2,"['Log4J', 'Vulnerability', 'Wired']",SecurityNewsbot,FALSE
+1.47058E+18,2021-12-14 02:30:05+00:00,The Log4J Vulnerability Will Haunt the Internet for Years | WIRED https://t.co/fhYeKVDM4s,Steve Smith,,"PhD Computer Scientist, Unfussy Bon Vivant, Iconoclast, Contrarian, Skeptic, Lover of Lisp code, adventure, mystery, science, dogs, & women (not in that order)",2009-04-10 03:14:51+00:00,557,2369,56520,,Twitter for iPad,FALSE
+1.47058E+18,2021-12-14 02:30:01+00:00,"Wired: ""The Log4J Vulnerability Will Haunt the Internet for Years"" https://t.co/PqNwqsGdTi",Evan Kohlmann,"New York, NY","NBC News Analyst / Co-founder @FlashpointIntel
+Terrorism, Extremist Groups, Cyberintelligence, and the Dark Web.  
+Contact me on Telegram: @ekohlmann",2009-03-27 18:14:36+00:00,24648,32,565,,timeline_manager,FALSE
+1.47058E+18,2021-12-14 02:30:00+00:00,"The vulnerability in #Log4j affects Apache Struts, Apache Solr, Apache Druid, Apache Dubbo, VMware vCenter + more. @TrendMicro observed threat actors using obfuscation in the expression to hide their traffic. One possible #Log4Shell infection flow: https://t.co/sSnoGfCOFO https://t.co/L5QWfnbF1D",Kelly Stefani Gomes,,Sales Executive | Helping people and companies to be safe in their journey to the cloud,2021-10-08 16:21:49+00:00,5,65,1,['Log4j'],Trend Micro ,FALSE
+1.47058E+18,2021-12-14 02:30:00+00:00,"30 Minutes to #CyberChill
+@StonerBrewingCo joins @CyberWonton and I as we post mortem last weeks AWS crash, Log4j updates, and your usual cyberfuckery abounds.
+
+Come join us!
+
+https://t.co/sukikhLO2i https://t.co/JiAZPeolIi",Ordy Packard's Holiday Yule Log Emporium,Behind a Circle K w/  your mom,I'm just a slow emotion replay of somebody I used to be.,2021-04-19 22:38:25+00:00,7457,2488,122529,['CyberChill'],Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:30:00+00:00,@FadedNick @ConsultingCso No evidence that log4j is used by the tire.,{…} A Ray In A Manger—IBM Z Ch.🕎🎄🎅🏽 💉💉💉🦠🔫,"Roseville, CA",#ADHD 💩posting sw eng @tridentservices—HLASM/C/Rexx/COBOL/more—IBM Z Champ—BS2000/OSD—2 GRs—SHARE LANG Prj Mgr—he/il/él/er—my💩posts & ur NFTs sont tous miens,2008-11-05 15:32:50+00:00,2111,5001,374671,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:29:34+00:00,INVESTIGATING: MEL Technologies is investigating systems potentially affected by the recently announced Log4j vulnerability. Internal systems and webstream services may experience intermittent interruptions while repairs proceed.,MEL Technologies,Minneapolis-St. Paul,Technology update page for the Media Entertainment Lab at University of Northwestern - St. Paul,2020-04-10 20:09:58+00:00,5,9,5,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:29:29+00:00,"@Jack_Beitz I've been sharing this one Jack
+
+https://t.co/Gf07jQp4SO",kmartino,Philly,"Programmer, seeker of connection/sci/culture/smart application of tech & process/music/community & family. Hopepunk/We’re bigger on the inside/Be Kind! he/him.",2008-08-14 13:45:40+00:00,1067,1763,39993,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:29:22+00:00,Why is log4j doing anything other than printing stuff to files?,Vinay,Bangalore,"IT and Tech, national policy, misc
+Orgs - Samanvay Foundation, Takshashila Institution",2009-07-07 23:18:32+00:00,176,295,182,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:29:20+00:00,@jkbckr I find no explanation except that log4j is using eval...,Mo,UTC-5/UTC-4,ambitiose sed lassum  | #Infosec (not exclusively) |Lang: 🇲🇦🇬🇧🇩🇪🇫🇷🇳🇴 | https://t.co/cvTTjGwZTz | alt: @blaubaron_,2017-11-28 15:40:34+00:00,668,764,3862,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:29:18+00:00,#Log4j is like an onion the more layers you peal back the worse it gets #infosec #CyberSecurity #Log4Shell,Ally Frame,Cyber Space,Just a person trying to keep up with the security world. Opinions are my own. 🏳️‍🌈,2011-07-14 19:01:31+00:00,201,272,1230,"['Log4j', 'infosec', 'CyberSecurity', 'Log4Shell']",Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:28:49+00:00,The Log4j vulnerability that’s shaking up the Internet explained as simply as I could. https://t.co/ZsxOpwUfBr,Arnab Ray,USA,"Author of 6 non-award-winning books. Host of The Attention Pliss podcast (https://t.co/nIWpQF6fdF). Father. Ok-type human being.Opinions own, not employers’.",2009-01-08 00:21:06+00:00,36616,143,12857,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:28:26+00:00,@DAkacki Log4j and the benefit of temporarily closing  ports 389 and 636. And just overall implementing identity and access management best practices in other cases.,Jasmine | JASinBits 🦋,"Washington, DC",📚M.S. IT Mgmt. & CyberSec. Class of '23 | Emerging GRC Sec. Analyst 📑| #GRC #Privacy #Risk #Policy #Audit | Avid Researcher🔎 #WiCyS #ISACA,2021-07-19 13:35:26+00:00,159,784,1183,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:28:15+00:00,"@NathanMcNulty @sirsquishy79 @kapsi_r @JRoosen it's already being used in the wild together with log4j apparently:
+
+https://t.co/tvIZLgZl6L",Charlie Clark,,,2010-01-26 13:43:33+00:00,1999,1068,646,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:27:54+00:00,"Benefits of Shark Campaign👇👇
+1) Get Free 10$ On Signup(5$ For Social Task + 5$ For Trade Task) 
+1) Per Invite Get 1$ (No Limit)
+2) Chance to Win iPhone
+3) And also get 10$ Bonus on Signup Bybit Account when you make you first deposit and trade
+#log4j  @Bybit_Official  #Crypto",Msd'ian,,#BITCOIN,2019-02-17 17:39:11+00:00,45,130,977,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:27:51+00:00,@devonbl She’s probably off hiding from the log4j cve,Marco Carini,"Milwaukee, WI",Software Engineer @  - UW Madison Alumni,2018-05-31 22:29:30+00:00,185,286,10610,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:27:30+00:00,How long before we start spotting log4j payloads as physical QR codes out in the wild? 🤔,REDACTED INDIVIDUAL ONE 🏳️‍🌈👨🏻‍💻,Maryland,Geek. Security researcher. 🏳️‍🌈👨🏻‍💻 (he/him),2010-04-02 03:03:14+00:00,83,489,1866,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:27:08+00:00,"@rickhanlonii @violetblue And yet, this still isn’t as ridiculous as the anti-vax stance because log4j isn’t contagious.",Rogue Shoten,,"Just your average 40-something motorcycling, mountain-biking, rave-attending cybersecurity professional. Plus, I use the F Word a lot.",2015-08-06 15:32:55+00:00,72,177,2913,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:27:01+00:00,"ZDNet: ""Security company offers Log4j 'vaccine' for systems that can't be updated immediately"" https://t.co/xNdtdCzIml",Evan Kohlmann,"New York, NY","NBC News Analyst / Co-founder @FlashpointIntel
+Terrorism, Extremist Groups, Cyberintelligence, and the Dark Web.  
+Contact me on Telegram: @ekohlmann",2009-03-27 18:14:36+00:00,24648,32,565,,timeline_manager,FALSE
+1.47058E+18,2021-12-14 02:26:30+00:00,@thebearablebull @MoonLamboio @WorkingMoneyCH  check out the Java script hack. It seems serious. Maybe this is what Klaus Schwab was talking about when he said their would be a major hack. https://t.co/csscK5bKrm,ak47monster,Oklahoma,Meme lord I’m also into crypto. I studied Memeology at the University of IFunny for 7years. Studied Ripple at the University of YouTube. I did not graduate.,2021-05-27 06:47:54+00:00,161,753,5344,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:26:24+00:00,"@FrankMcG Coming soon, a new log4j v2 exploit behind paywalls",StopForumSpam 🇭🇰,In The Cloud,"helping 300,000 forum, blog and site administrators keep the spam away for 15 years now... for free!!!  nothing beats free!!  Often copied, never properly 🇭🇰",2010-08-10 21:42:14+00:00,1208,683,2164,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:25:19+00:00,Intrusion Detection can also detect exploitation of the vulnerability and surface those to Security Command Center. If you haven't looked at SCC I recommend you check it out. https://t.co/XR9dHCXwjL,Ian Lewis 💉💉,🗼🇯🇵,Taking a semi-break from Twitter.,2008-02-06 01:41:56+00:00,6810,357,24212,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:25:17+00:00,@thesaigonbabe @Cannibal @neo4j Log4j is java software that logs events during execution. Neo4j is a database software for graph-structured data,"Woke Karen, Regional Mgr of Logistics at ANTIFA HQ",Toronto,Sweetie ~*I am*~ the manager,2019-11-15 00:55:42+00:00,46,93,27668,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:25:04+00:00,‘Less obvious’ uses of Log4j pose a major risk - VentureBeat https://t.co/bcyirhUKrL,Zero Trust,,🚫 Z E R O  T R U S T 🚫 Twitter feed for all #zerotrust news and #cybersecurity industry chatter.,2021-10-27 21:21:58+00:00,44,188,6,,dlvr.it,FALSE
+1.47058E+18,2021-12-14 02:24:53+00:00,Log4j ruining my life rn,6.5-Peak HP Wet/Dry Shop Vacuum,"Toronto, Ontario",my gut is bigger than my future,2017-08-07 15:45:29+00:00,41,97,2534,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:24:51+00:00,"Is it wrong to use a log4j exploit as a password?
+
+I mean, passwords shouldn't be coming anywhere near logging code... right?",Colin Percival,"Burnaby, BC, Canada","Computer Scientist, FreeBSD Security Officer Emeritus, AWS Hero, and author of Tarsnap.",2008-11-16 22:11:16+00:00,13973,37,1073,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:24:33+00:00,"Create a jar file with the modified class:
+
+jar cvf log4j-fix.jar -C target org/",Seshu Pasam,Westford MA,#architect #security #cloud #saas #iam #microservices #ops,2009-04-25 03:47:19+00:00,186,250,764,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:24:20+00:00,"Compile the class using log4j2 core jar. 2.0 is what I used. You can find this in https://t.co/JZonopKU92 or other repos:
+
+javac -cp log4j-core-2.0.jar -d target https://t.co/VP07r4Yj5K",Seshu Pasam,Westford MA,#architect #security #cloud #saas #iam #microservices #ops,2009-04-25 03:47:19+00:00,186,250,764,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:24:20+00:00,"Just realizing why the internet is going crazy over log4j. Not having worked in backend for 6 years now, I thought log4j dropped a super cool new feature of sorts, not that it took down minecraft.",∆,IL,"Avoiding Airbnb linting rules since 2019
+
+""I'm a hacker, not a slacker"" - Johnny Depp
+
+dev
+vr lover
+jr. jungle producer
+anti-hero skateboards fan",2009-04-24 23:47:16+00:00,65,287,9908,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:24:11+00:00,@XRP_OWL We will see how log4j JavaScript hack plays out,ak47monster,Oklahoma,Meme lord I’m also into crypto. I studied Memeology at the University of IFunny for 7years. Studied Ripple at the University of YouTube. I did not graduate.,2021-05-27 06:47:54+00:00,161,753,5344,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:23:56+00:00,I don't think the makers of the #log4j RCE /quite/ realize the ripple effect this will have on the economy lol. Very accelerationist in the worst &amp; best sense,@𝚗𝚘 𝚒𝚍𝚎𝚗𝚝𝚍,Laniakea,Transfinitely Recursive De-referencing Cellular Automata. Twitter filters=off. Certain & guaranteed reaction. Give OPMLs to me. Likely acts on deletion requests,2012-02-02 14:24:02+00:00,507,5001,7443,['log4j'],Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:23:44+00:00,"@GossiTheDog Have found this to be a very good resource listing vendors etc
+
+https://t.co/YwYY4jKOc9",Damo,"Perth, Australia","Just a bloke that loves music, sport, Carlton, drinking and good times. Guitarist for @ArkarionBand ...check us out!",2009-04-22 02:04:02+00:00,95,269,1417,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:23:39+00:00,Particularly high bang for the buck is the Cloud Armor rules that can be applied at the load balancer. I'd consider it only a temporary or partial mitigation but it can be done quickly without upgrading any software. https://t.co/r2GYORoAfE,Ian Lewis 💉💉,🗼🇯🇵,Taking a semi-break from Twitter.,2008-02-06 01:41:56+00:00,6810,357,24212,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:23:35+00:00,"Day 41 of #100DaysOfInfoSec
+
+Thank you to everyone who has been working tirelessly to stop the internet from being on 🔥
+
+More learning about logjs today &amp; came across a helpful visual from the Swiss 🇨🇭
+
+Thank you @GovCERT_CH 
+
+#infosec 
+#Infographic 
+#log4j 
+#Log4Shell 
+#log4j2 https://t.co/lCj7Mo8rF0",Meghan Jacquot is chinchillin’ ❄️,,"Cybersecurity Analyst | Cyb3r Tard1s | Speaker #infosec, #cybersecurity, #cloud, #risk | Curious | Chinchillas❣️ | Carpe Diem | She/Her | My opinions are my own",2012-11-17 07:20:53+00:00,437,814,2111,['100DaysOfInfoSec'],Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:23:30+00:00,"package org.apache.logging.log4j.core.lookup;
+
+import org.apache.logging.log4j.core.LogEvent;
+import org.apache.logging.log4j.core.config.plugins.Plugin;
+
+@Plugin(name = ""jndi"", category = ""Lookup"")
+public class JndiLookup implements StrLookup {",Seshu Pasam,Westford MA,#architect #security #cloud #saas #iam #microservices #ops,2009-04-25 03:47:19+00:00,186,250,764,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:23:14+00:00,Google Cloud recommendations for investigating and responding to the Apache “Log4j 2” vulnerability (CVE-2021-44228) https://t.co/LWNtATfnT1 #gcp https://t.co/yUy7nmXX6n,Sarath Boppudi,"Brisbane, Queensland ",Data Strategist & Cloud Solutions Architect at #BiTQ |  #Brisbane #AI User Group Organiser | #azuresolutionsarchitect and #gcp #googlecloudcertifed Expert,2019-08-14 21:55:53+00:00,65,102,30,,Hootsuite Inc.,FALSE
+1.47058E+18,2021-12-14 02:23:09+00:00,Defender for Cloud finds machines affected by Log4j vulnerabilities https://t.co/h8d6TNvD6i,ともなり,品川 28階,日本マイクロソフトでクラウドなどを少々。クラウド関連メディアで原稿を書いたりもしています。投稿される内容は個人的な見解であり所属企業を代表するものではありません。,2010-07-22 22:45:56+00:00,575,352,3909,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:23:08+00:00,"Log4j may be the worst vulnerability yet, says Department of Homeland Security https://t.co/3xzA7L4R9z $AAPL https://t.co/JYQ34TuCc7",MacHash,Designed in California,"Up to the minute Apple news. The best Mac and iOS rumors, apps and more in one feed. #Apple $AAPL From @GlassWaveApps",2012-01-12 05:04:58+00:00,1892,3689,170,,dlvr.it,FALSE
+1.47058E+18,2021-12-14 02:22:55+00:00,"The latest update for #LogDNA includes ""What is the #Log4j 2 Vulnerability?"" and ""#DevOps State of Mind Podcast Episode 4: How to Build With Confidence with #LaunchDarkly"".
+ 
+#Monitoring #Logging https://t.co/SVv0DWISDB",OpsMatters,"London, England","The Source for News & Information on Operational Applications & Tools
+#OpsMatters #OpsBuzz #TeamRelated #SecuritySenses #SystemsDigest",2018-03-12 14:24:12+00:00,2337,2418,41790,"['LogDNA', 'Log4j', 'DevOps']",opsmatters-curator,FALSE
+1.47058E+18,2021-12-14 02:22:37+00:00,https://t.co/fZaZo1fuG6 Ongoing investigation into Apache Log4j 2 vulnerability,PressReleasePoint,,Free Online Press Release Distribution Service For Business,2010-07-14 12:02:43+00:00,1727,1,1,,PressReleasePoint.Com,FALSE
+1.47058E+18,2021-12-14 02:22:26+00:00,We're tracking threats taking advantage of the CVE-2021-44228 and helping customers mitigate the impact to their environments from the remote code execution (RCE) vulnerability in #Apache Log4j 2. The latest update and guidance for customers ➡ https://t.co/9iFVICuxlY #GitHub,ReliaQuest,"Tampa, FL","The world's leading brands use ReliaQuest's GreyMatter platform for continuous visibility, automation, and measurement across their security programs.",2009-04-01 19:36:08+00:00,1977,1289,1287,,Sprout Social,FALSE
+1.47058E+18,2021-12-14 02:22:03+00:00,"- Hackers have discovered a software vulnerability that allows them to access computers
+
+- The vulnerability is in a program that is used all over the world
+
+- Hackers are exploiting this as we speak, causing some governments to shut services down
+
+https://t.co/0Ch4elFQG5",Mark Slapinski,Toronto,"📰 Political Commentator + Journalist
+🕵️ Have a story idea? DMs are open
+💉 Vaccines save lives
+😷 Masks work",2020-10-03 02:13:36+00:00,2673,1599,17804,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:21:02+00:00,"Live A Little, Listen, Chill &amp; Repeat...
+
+https://t.co/q5SVT7kISN
+
+#NowPlaying #Spotify #NewMusic #NewAlbum #musicproduction #AbuDhabiGP #log4j #MissUniverse #NFTCommunity #Verstappen #ChampionsLeague #pakvsWi #OmicronVirus #UFC269 #Yellowjackets #TirageLDC #LFC",Music Matters,Liverpool,Digital Nomad. Playlist Curator. Entrepreneur. Music Jedi.,2020-01-24 12:13:29+00:00,3584,2550,5096,"['NowPlaying', 'Spotify', 'NewMusic', 'NewAlbum']",Twittimer,FALSE
+1.47058E+18,2021-12-14 02:20:41+00:00,Google Cloud has done a lot of work to help mitigate the log4j security issue. It's pretty GCP focused but some of the top recommendations are summarized here: https://t.co/PxCzXN8QWw,Ian Lewis 💉💉,🗼🇯🇵,Taking a semi-break from Twitter.,2008-02-06 01:41:56+00:00,6810,357,24212,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:20:40+00:00,holy shit I was totally right about log4j interrupting the champions league draw lololol https://t.co/Ae2ot0kREc,Jack,"Milwaukee, WI","Jack's account on https://t.co/eWcHkl65fd.
+Serial lunchposter.
+#LFC #YNWA",2015-09-22 03:20:32+00:00,32,222,2309,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:20:18+00:00,"Critical ‘Log4J’ Java flaw being used to deliver malware, crypto-miners | #macos | #macsecurity https://t.co/tXOQUvH2FW",National Cyber Security,"Atlanta, GA","We are a leader in #news for #cybersecurity #hacker , #hacking, #techjobs, #NationalCyberSecurity Download our #app ""National Cyber Security 5.0""",2010-01-27 22:48:24+00:00,10108,159,0,"['macos', 'macsecurity']",WordPress.com,FALSE
+1.47058E+18,2021-12-14 02:20:17+00:00,"Critical ‘Log4J’ Java flaw being used to deliver malware, crypto-miners | #macos | #macsecurity https://t.co/aC00wjF9vt",Gregory D. Evans,United States,Gregory D. Evans is a #CyberSecurity #Mogul & Founder of #NationalCyberSecurity | 1st Hacker to make $100M | Ex-Hacker | | #SecurityNews | #HackerNews,2010-09-23 20:48:59+00:00,7500,1131,317,"['macos', 'macsecurity']",WordPress.com,FALSE
+1.47058E+18,2021-12-14 02:19:19+00:00,New: The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/DLZkt49ZBv,Sciences and tech,,Welcome on Sciencestweet - I post about Sciences and Technology.and love to meet new people !,2015-04-15 15:02:57+00:00,491,662,0,,IFTTT,FALSE
+1.47058E+18,2021-12-14 02:19:17+00:00,"Virus vulnerability in Java-based software ""Log4j"" some of the world's biggest tech firms use to log information is overwelming. Tech giants like Amazon Web Services @amazon &amp; IBM @IBM have moved to address the bug in their products.",Time_India,"The Hague, The Netherlands",I want equality for all except reporters & photographers..... Mahatma Gandhi....,2018-10-17 09:11:42+00:00,493,4993,50717,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:19:02+00:00,"Dear #VA02,
+   It would be my honor to represent you as the only person in Congress that has any clue about the current Log4j cybersecurity vulnerability tearing through the Internet.  💻🇺🇸",Mark Bright for Congress (VA-2),"Virginia, USA",Dad. Veteran. Business Owner. 0-time NYTimes Best Selling Author.  Stanford reject.  Winner: Beef O'Bradys Nuclear Wing Challenge circa '99.,2009-09-24 00:55:18+00:00,61,109,7448,['VA02'],Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:18:35+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/CAWcpUZWdt https://t.co/htegMF9VH9,El Nuevo Orden Mundial,,"Troll
+https://t.co/EljlHs5RBJ",2016-05-26 00:13:02+00:00,44,42,5,,dlvr.it,FALSE
+1.47058E+18,2021-12-14 02:18:31+00:00,"And JNDI is also completely disabled by default! Good, good!
+
+https://t.co/XT8IjbNR0n",Evgeni Golov,Leichlingen (Rheinland),"sassy as a service
+
+I break @RedHatSatellite and @ForemanProject for profit and @Debian for fun
+
+he/his",2009-06-05 19:23:38+00:00,664,540,7136,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:18:19+00:00,"Windows 11 Theme For Windows 10 
+Get it here: https://t.co/ARot2jpuRY 
+#MissFrance2022 #FreeFire #Windows10 #LosAngeles #BTS #FIFA22 #Windows10themes #dogelon #DesignContest #loveback #BlackWidow #blackpink #SquidGame #LISA #opensea #rose #JISOO #JENNIE #PandyaStore #log4j",Cleodesktop,,"Customization Desktop: Theme For Windows 10, Theme For Win7, Theme For Win8, Skin pack, Theme pak, Icon pack, Wallpaper...",2013-11-17 02:01:27+00:00,34174,117,3913,"['MissFrance2022', 'FreeFire', 'Windows10']",Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:17:58+00:00,"Probably one of the most popular command since December 10 for Java devs:
+
+mvn dependency:tree -Dincludes=log4j:log4j
+
+What was your technique?",Thomas Joseph 👋,Worldwide,Software Technologist,2009-04-06 13:53:10+00:00,145,360,801,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:17:40+00:00,If you are a security company I understand you may be scanning the internet for vulnerable systems to log4j but please don't use all of a /22 to do it.  You are just adding noise at this point,Midpipps,,,2008-05-12 19:27:24+00:00,19,84,6,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:17:35+00:00,"All the #log4j zero-day vulnerability traffic making me:
+
+   1) add some great security reseachers to my InfoSec list
+
+   2) Glad that I'm retired &amp; don't have to deal with it anymore
+
+Kudos &amp; best wishes to those in the trenches!","J. Brian Coyle - Fully VAX'd, Still Mask'd ™","Orlando, FL","Middle-aged-crazy aerospace and rocketry geek \
+#NASATweetup (Social) Juno & KSC50/MSL \
+Extensive list user - may not follow you directly \
+Retired #InfoSec",2010-05-23 20:09:26+00:00,261,177,3193,['log4j'],Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:17:22+00:00,"@matthew_d_green That's not the scary one. The scary one is the millions and millions of devices containing Java and potentially log4j that the manufacturer abandoned support on years ago, or can't be maintained by end users.
+Like, say, SA now Cisco and Arris now CommScope.",rootwyrm,Irrelevant,"Yes, the real one.
+https://t.co/MJQ2PI5yQb
+https://t.co/TR2jDZoCSq",2014-08-15 21:20:51+00:00,1,5,2,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:16:49+00:00,"Hey @CNN I fixed it for you. Americans warn of critical flaw in border policy. 
+
+https://t.co/v2qLSDcJJj",WhatIsWrongWithYou,Fuck around and find out,,2016-08-31 21:24:28+00:00,57,152,3257,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:16:44+00:00,Patching The UniFi Network Controller Against The Log4J CVE-2021-44228 Vulnerability https://t.co/CEPyZAC7Bs,Tom🌶\(^-^)/,"Detroit, MI","Vaccinated & Caffeinated Tech Enthusiast, Open Source Advocate, Content Creator & Hot Sauce Addict.  https://t.co/TmsxaX3wtc",2012-02-23 21:33:08+00:00,12399,716,9092,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:16:41+00:00,"Log4j doesn’t just blow a hole in your servers, it’s reopening that can of worms: Is Big Biz exploiting open source? https://t.co/Lux4NjL2KI",Anith Gopal,"Doha, Qatar","IT Consultant at @kataraqatar, IT Manager, CISO & Infrastructure and Information Security Professional. Rocking life with @SiniAnith from #Doha #Qatar",2008-06-03 05:41:09+00:00,5649,535,32,,WordPress.com,FALSE
+1.47058E+18,2021-12-14 02:15:19+00:00,Attacks and Breaches How Do I Find My Servers With the Log4j Vulnerability? https://t.co/KplDz4W6Kg,Paul de Souza,"ÜT: 38.869721,-77.259362",The Cyber Security Forum Initiative (CSFI),2010-08-06 01:58:59+00:00,2698,2324,131,,Sprout Social,FALSE
+1.47058E+18,2021-12-14 02:15:05+00:00,"If you aren’t already tracking the #Apache #log4j vulnerability, you should be. This one is big and not as simple as just applying a patch to fix. #CISA has stood up a webpage with resources including tools to find the vulnerability in your environment. https://t.co/nsERtmArJQ",Natsar,"Capital Region, New York","HQ in NY Capital Region & serving the world. Providing expert advice, insights, training, & education in cybersecurity, digital forensics, and technology",2014-12-31 05:46:06+00:00,23,84,9,"['Apache', 'log4j']",Buffer,FALSE
+1.47058E+18,2021-12-14 02:15:02+00:00,Update on #Kronos #ransomware #cyberattack. Too soon to say if #hackers leveraged #Log4j #vulnerability https://t.co/xc3Caa0Ecc,MSSP Alert,,"Covering managed security services providers (MSSPs), managed detection & response (MDR) & cybersecurity news. From CyberRisk Alliance.",2017-04-12 11:08:46+00:00,2095,197,14,"['Kronos', 'ransomware', 'cyberattack', 'hackers', 'Log4j', 'vulnerability']",Agorapulse app,FALSE
+1.47058E+18,2021-12-14 02:15:01+00:00,"New post: ""The Log4J Vulnerability Will Haunt the Internet for Years"" https://t.co/9gI6CX8UTu",Rick Knight 📷,"Denver, Colorado",Photographer.,2007-03-23 01:59:01+00:00,1468,2298,6314,,IFTTT,FALSE
+1.47058E+18,2021-12-14 02:14:33+00:00,"Log4j doesn't just blow a hole in your servers, it's reopening that can of worms: Is Big Biz exploiting open source? https://t.co/1msLag1oSw",Hani Gamal,Egypt,https://t.co/SUHJvpW93z,2008-11-03 22:58:28+00:00,3161,2593,3374,,dlvr.it,FALSE
+1.47058E+18,2021-12-14 02:14:30+00:00,"Nice list of Log4j related software, compliments of @ncsc_nl: https://t.co/9RqkDzEc7m",Steven Banks,"Seattle, WA","President, Banks Consulting Northwest. Founder, Puget Sound Small Business Server User Group. Microsoft MVP award recipient 2004-2018. Ironman. Geek.",2009-09-18 08:45:25+00:00,1027,1347,3115,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:14:22+00:00,"No one could’ve predicted this...
+
+SSA-661247: Apache Log4j Vulnerability (CVE-2021-44228, Log4Shell) - Impact to Siemens Products
+
+https://t.co/Z7NuAlKsqI https://t.co/Jla9zTOa6B",ICS_Mikko,TMP@Finland,,2021-11-04 20:08:43+00:00,24,89,383,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:14:07+00:00,‘Less obvious’ uses of Log4j pose a major risk https://t.co/XY6lIx4VL8 https://t.co/H6qgPPIq2F,Bilal Munir,Pakistan,"Brand Strategist & Internet Privacy Advocate. 
+Eat, Sleep, Breath #DigitalMarketing, #ContentMarketing, #SocialMedia #marketingautomation #pardot #salesforce",2017-01-20 13:41:06+00:00,682,887,212,,dlvr.it,FALSE
+1.47058E+18,2021-12-14 02:14:03+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/0i0RSZwLS8,JUNKY店主🔞👕shop 営業💣,宮城県気仙沼市舘山1-1-14 ☎︎0226-23-3883,"作家志望、個人事業主でブロガー。
+ネットでTシャツ委託販売。
+☕️🚬🏪🚶‍♂️📗🛹
+I can only speak Japanese. 
+🍙🌈🎵👕Mobile: @amespiblue 
+ R.I.P Lee Alexander McQEEN 52th🤲
+💀死にたい大人は私の服で勇気を出して💀",2012-09-04 14:58:06+00:00,3760,4961,194300,,SocialDog for Twitter,FALSE
+1.47058E+18,2021-12-14 02:14:00+00:00,"I have seen many developers derailed by the siren song of framework development when they were supposed to be making an application. People love making frameworks.
+
+Except logging frameworks - nobody wants to do that. I appreciate the people who made log4j. #hugops","Andrew ""Coredump"" Denyes","Seattle, WA","BBQ, doughnuts, the demoscene, machine perception, digital media/arts, and cats. I made lots of public mistakes on the early social internet.",2007-05-18 17:17:16+00:00,250,561,12674,,Twitter for Mac,FALSE
+1.47058E+18,2021-12-14 02:13:54+00:00,"Quick and simple demonstration of #log4j works and why it is a big problem.
+
+The vulnerability allows a hacker to pretty much inject arbitrary code into your system to achieve what they want.
+
+https://t.co/FGuK8iIi4y",Shak The Hack,"London, Dubai","Security Architect, IT Pro, Geek on 🔥, Jack of Infosec, Master of Disaster, interests in #Cyber #Cloud #Azure #AWS #Hacking, opinions are my own 🙄",2018-05-20 22:54:39+00:00,2025,1787,6006,['log4j'],Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:13:51+00:00,"The latest update for #Sysdig includes ""Mitigating #log4j with Runtime-based #Kubernetes Network Policies"" and ""Critical vulnerability in log4j, a widely used logging library"".
+ 
+#cybersecurity #devops https://t.co/GakOyvrGFK",OpsMatters,"London, England","The Source for News & Information on Operational Applications & Tools
+#OpsMatters #OpsBuzz #TeamRelated #SecuritySenses #SystemsDigest",2018-03-12 14:24:12+00:00,2337,2418,41790,"['Sysdig', 'log4j', 'Kubernetes']",opsmatters-curator,FALSE
+1.47058E+18,2021-12-14 02:13:30+00:00,Log4j 😭,Olarry,.......on the run !,Talking Tech and Solving problems #Python #DataScience #ProblemSolver 🇳🇬 TXST,2016-07-24 20:20:43+00:00,994,1081,4293,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:13:22+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/Wusc1lZCar,Anith Gopal,"Doha, Qatar","IT Consultant at @kataraqatar, IT Manager, CISO & Infrastructure and Information Security Professional. Rocking life with @SiniAnith from #Doha #Qatar",2008-06-03 05:41:09+00:00,5649,535,32,,WordPress.com,FALSE
+1.47058E+18,2021-12-14 02:13:10+00:00,False positives in @TenableSecurity scanner identifying version 1.2 on #log4j  and are refusing to update the plugin. Stating customers should manually verify if version 2+ is being used. #log4jshell #Log4Shell,Luke 💉💉,"Melbourne, Victoria","InfoSec Professional, Speaker, Conference Organiser, Climber, Flat Duck. Opinions are my own. OSCP (Offensive Spreadsheet Certified Professional)",2009-05-06 01:33:15+00:00,1083,525,2159,['log4j'],Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:12:46+00:00,"If you are new in tech and don't have a ton of projects to put on a resume or speak about for an interview:
+Did you do any work pertaining to log4j vulnerabilities today?
+What steps did you take? 
+Did you use automate tools, if so what tools? Can you explain how any tools worked?","Brooks, ENAUTO pilot",Btw F12 and the Boot,Christian|Family Guy|Tech|Network Engineer|Sports|Music|Cinema|Travel|CCNA|#DevNet500|AWS SAA|JNCIA|CyberSec|Cloud|Shenanigans,2011-06-06 20:55:07+00:00,813,867,13389,,Twitter for Android,FALSE
+1.47058E+18,2021-12-14 02:12:22+00:00,Security Experts Sound Alarm on Zero-Day in Widely Used Log4j Tool. via #DarkReading #CyberSecurity,,,,,,,,,,
+https://t.co/ZSWHxPSEyH,Mark Kenney,Up Nort,"Senior Manager-Professional Services in the #IT services industry. #Security & #DigitalWorkspace TC. #CDW. Go #Gophers! 
+The opinions I share are my own.",2015-08-19 14:21:03+00:00,389,336,13904,"['DarkReading', 'CyberSecurity']",Marky_Sparky_Twerpy_action,FALSE,,
+1.47058E+18,2021-12-14 02:12:12+00:00,Check out Jacob's video! #TikTok https://t.co/77qNbVCN6X #PUBG #PUBGMOBILE #PGC2021 #ApexLegends #log4j #OmicronVirus #TikTok #TikTokライブ,JACOB,Inland Empire,“inTokyo” -JLA,2011-02-28 04:32:27+00:00,266,318,3866,"['TikTok', 'PUBG', 'PUBGMOBILE', 'PGC2021', 'ApexLegends', 'log4j', 'OmicronVirus', 'TikTok', 'TikTokライブ']",Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:12:12+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/PqS8zGBFOM,Information Warfare Community Self Synchronization,Global,U.S. Navy Information Warfare Community news and information. Sharing ≠ endorsement. https://t.co/yCqVECOthH,2010-08-29 16:28:27+00:00,3582,105,40,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:12:06+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/iHvRE3USdo,Dave Schroeder 🇺🇸,"Madison, WI",Strategist @UWMadison | Cyber Warfare Officer @USArmy | Space Cadre | Board @WSRCResearch | Prior @USNavy | @IWCsync | @IOLink | UW Expert https://t.co/JO9XcquhCD,2007-03-22 20:07:01+00:00,517,313,426,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:12:05+00:00,"ThreatsHub Cybersecurity News | Log4j RCE latest: In case you hadn't noticed, this is Really Very Bad, exploited in the wild, needs urgent patching - https://t.co/RPqy9Ee8X9 #CyberSecurity  #Coudsecurity #ThreatIntelligent #Databreach #Deeplearning #OSINT #CyberCrime #Infosec ...",ThreatsHub,Global,@ThreatsHub #Threats Analysis Hub and #ThreatIntelligent Solution to help security teams defend against #cyberattacks | #Cybersecurity #OSINT Consulting,2018-07-16 19:22:30+00:00,1471,120,2900,,Threatshub,FALSE
+1.47058E+18,2021-12-14 02:11:49+00:00,"@SmittySec I have yet to see a scanner that finds them all. We are using 4 different scanners + a manual find for *.jar, *.zip, and log4j* and the only thing that has found them is the manual find. 
+
+ I’ve used this to finally justify uninstalling all the JVMs I didn’t approve.  Fuck em.",Justin Xed,Atlanta GA,¼ Cyborg.  Geek. Trek DrWho MCU BSG WX MLS. ex-Texan he/him 🏳️‍🌈⚽️🐶,2011-03-06 07:58:10+00:00,292,1263,28454,,Tweetbot for iΟS,FALSE
+1.47058E+18,2021-12-14 02:11:39+00:00,"#CISA Creates Webpage for #Apache #Log4j Vulnerability #CVE-2021-44228
+
+https://t.co/qmAYP2iGWw #Software #IT #Tech #CyberSecurity #CyberThreat #MIS #InfoSys #CISO",Ronald,"Chicago, Illinois, USA","MBA, Acctg, Tech, Leadership. ""To Know the Causes of Things"".  Lang: 🇺🇸🇳🇱🇩🇪🇫🇷🇯🇵. #LGBT #Progressive #Egalitarian #HumanRights 🏳️‍🌈🎸🎶📚",2009-03-02 18:19:31+00:00,24603,17956,8567,"['CISA', 'Apache', 'Log4j', 'CVE', 'Software', 'IT', 'Tech']",Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:11:32+00:00,My companies timesheets were hacked due to log4j and web3's enabling of ransomware.,AnotherEngineerPDX,Inside the UGB,Pro E-bike subsidies. Pro transit. Pro density. Pro good governance. Tech skepticism is healthy. Debt finance climate solutions not freeway expansion.,2019-07-12 18:03:25+00:00,47,207,4046,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:11:03+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/GRlhH4JABg,BCABA Network,"West Midlands, England","BCABA NETWORK, Established 2001 ,based in the West Midlands offering Business Support, Networking Events & Celebrating Success!",2016-05-25 10:54:46+00:00,2579,4710,3026,,WordPress.com,FALSE
+1.47058E+18,2021-12-14 02:10:23+00:00,"A comprehensive list of apache log4j related software 
+https://t.co/Ssej5c3x0G",bounty_hunter1412,,"OSCP | OSWP | CRTP 
+Security professional",2013-08-18 09:22:03+00:00,755,626,5,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:10:01+00:00,"Log4j doesn't just blow a hole in your servers, it's reopening that can of worms: Is Big Tech exploiting open source?
+https://t.co/32G5wi7SXg",ビジネス速報,,,2021-03-28 03:02:55+00:00,224,188,0,,知識のいずみ,FALSE
+1.47058E+18,2021-12-14 02:09:56+00:00,LOG4J: The Meme (0) https://t.co/p8VBjjr8Ex #infosec #infosecurity #cybersecurity #threatintel #threatintelligence #hacking #cybernews #cyberattack #threathunting #cloudsecurity #cloudcomputing #malware #ransomware #devops #dfir #cyber,CyberIQs,,CYBER NEWS -  Use the keyword search function to search for the news you care about. #infosec #cyber #cybersecurity #cybernews #cybercrime,2020-12-27 08:34:58+00:00,705,626,81,"['infosec', 'infosecurity', 'cybersecurity', 'threatintel', 'threatintelligence']",CyberIQS_App,FALSE
+1.47058E+18,2021-12-14 02:09:44+00:00,"AWS has updated its WAF rule set – AWSManagedRulesKnownBadInputsRuleSet AMR – to detect and mitigate Log4j attack attempts and scanning. 
+It also has mitigation options that can be enabled for CloudFront, Application Load Balancer (ALB), API Gateway, and AppSync.",bounty_hunter1412,,"OSCP | OSWP | CRTP 
+Security professional",2013-08-18 09:22:03+00:00,755,626,5,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:08:46+00:00,"New post: ""The Log4J Vulnerability Will Haunt the Internet for Years"" https://t.co/kZdYf5s6aV",wi rd,,,2013-07-10 22:07:41+00:00,22,0,0,,IFTTT,FALSE
+1.47058E+18,2021-12-14 02:08:41+00:00,"Me: all this log4j webinar invite spam is bad
+
+Also me: why haven’t we invite folks to a log4j webinar yet?",Jon Stewart,In The District,"The other Jon Stewart, not the one you miss.",2010-07-17 13:42:52+00:00,914,275,1186,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:08:29+00:00,"“In the frantic time since the flaw was publicly disclosed, researchers have concluded that the vulnerability had existed in Log4j since September 2013, apparently unknown to its vast universe of users.” #Log4Shell #log4j",Rick Holland,Don’t mess with Texas ,@digitalshadows CISO | VP of Strategy | Former @Forrester | @USArmy intel veteran | #CyberSecurity | #InfoSec |#ThreatIntel | #BBQ | #Converse | Public speaker,2009-02-14 16:51:47+00:00,9261,1908,9956,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:08:29+00:00,“Inside the Race to Fix a Potentially Disastrous Software Flaw” https://t.co/HABuzlGuBJ #Log4Shell #log4j,Rick Holland,Don’t mess with Texas ,@digitalshadows CISO | VP of Strategy | Former @Forrester | @USArmy intel veteran | #CyberSecurity | #InfoSec |#ThreatIntel | #BBQ | #Converse | Public speaker,2009-02-14 16:51:47+00:00,9261,1908,9956,"['Log4Shell', 'log4j']",Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:08:28+00:00,Good old days of sql injection all over again in the new avatar of log4j https://t.co/8IfhYEussD,t.exe,Someplace else.,I ❤️ mathematics & anime. IIT-D alumnus(for connecting). Full Stack WebDev. Game Dev. Machine Learning/DL. DeFi/Blockchain. INTJ-A.,2007-08-12 14:34:29+00:00,1659,3135,24303,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:08:21+00:00,SheHacksPurple: Log4J explained for Software Developers and AppSec Folks https://t.co/7tf7ngQsrW,EngSoon,Singapore,"Tweet by using Power Automate #Azure #DevRel #Microsoft #MVPBuzz #CloudSecurity
+Retweet By human",2012-03-10 09:48:09+00:00,692,3788,10596,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:08:17+00:00,All these #log4j comments and I’m still recovering from #leftpad.,Daniel Teoh,"South Lake Tahoe, CA",Canadian in the California.  Engineering @Square. Formerly @Google & @Netflix. Collector of vintage mustangs.,2009-03-12 14:16:22+00:00,417,475,1082,"['log4j', 'leftpad']",Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:08:02+00:00,"Government organizations and the private sector are responding to the disclosure of a critical vulnerability affecting the widely used Log4j logging utility, as exploitation attempts are on the rise https://t.co/AII9QO0p67",NCX Group Security,"Los Angeles, CA","NCX Group is an #CyberSecurity #Consulting Firm, specializing in #Information #Security, #Business #Continuity, #Incident #Response & Security as a Service.",2009-01-06 17:54:06+00:00,10841,9108,1575,,TweetDeck Web App,FALSE
+1.47058E+18,2021-12-14 02:07:37+00:00,"I learned about the log4j issue from my father on Saturday who has not written code since Pascal when I was like 7 y.o.
+
+I felt both very inadequate for not knowing about it ahead of time, as well as incredibly proud of him for explaining to me what happened and its implications.",Mark,"Phoenixville, PA","Engineer @Facebook. @DeekFit, USAPL powerlifter, Windows Phone enthusiast. I really like Shamrock Shakes.",2008-11-15 23:39:58+00:00,293,264,704,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:06:55+00:00,Your daily reminder that simplicity (as in: the opposite of complexity) is also a security feature #log4j,Herwig Hochleitner,"Margaretengürtel, 1050 Wien",Software Developer | Clojure | NixOS,2009-10-04 17:41:08+00:00,86,360,233,['log4j'],Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:06:09+00:00,"Would more money have prevented this security flaw? Would the cash be useful in other ways anyway? Analysis  The disclosure of a critical security hole in Log4j last week has renewed calls to rethink how open-source software gets developed, paid for…
+https://t.co/oLOxxrllKT",Java Wales,Wales,We are a group of Java Professionals based throughout Wales who are interested in benefiting from shared knowledge in the industry.,2017-07-21 18:52:48+00:00,961,2423,48,,Amplifr,FALSE
+1.47058E+18,2021-12-14 02:05:32+00:00,"@embedded_iot @pry0cc come on, I'm deploying a vendor app using the vendor supplied J2EE server, who's gonna check the log4j implementation? that's like saying you have to write your own printf() just to be sure.",Charlie Whisky,New Jersey,"The law cannot protect anyone unless it binds everyone; and it cannot bind anyone unless it protects everyone.
+- Frank Wilhoit",2011-03-21 14:24:08+00:00,179,840,83189,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:05:32+00:00,With the amount of money that’s being shelled out to contractors for Log4J 2 Incident recovery. I honestly wonder how much of that is going end up in the  engineers working 80+ hour weeks fixing it.,👨🏻,,☁️💻😭🏳️‍🌈,2021-11-17 02:01:11+00:00,2,87,294,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:05:29+00:00,"Time for some #ITLife.
+
+Thanks, #log4j #Log4Shell 🤨",Allan,"Pittsburgh, PA","""These are the days you might fill with laughter until you break.""—opinions mine—#ITLife #CyberSec #MakeTwitterFunAgain #ADHD #tattoos #HeartlessLibertarian",2009-12-31 04:50:59+00:00,4070,1865,82152,"['ITLife', 'log4j', 'Log4Shell']",Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:05:18+00:00,"#log4j First question I am hit with this morning, do any of our apps use log4j , they do not  but everyone is at  red alert over this exploit.",shelly,United States,"The Constitution may seemed tattered but it will survive. 
+Engineer, Activist hacker (a very good one) And cat lover.",2015-02-21 18:51:03+00:00,2682,4925,1236,['log4j'],Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:05:15+00:00,@matthew_d_green @otakup0pe https://t.co/BKsi9ANv8E and https://t.co/y3LpFgfEfh are from the person who wrote the original log4j and those implement exactly the same API as the original log4j. A lot of people moved to those. I'm a bit turned off by the HTTPS to HTTP redirect and ancient Apache though...,Daniel Micay,"Toronto, Ontario, Canada","Security researcher/engineer working on mobile privacy/security. Founder and lead developer of @GrapheneOS.
+
+Matrix: @strcat:https://t.co/4vylzJyOFK",2018-06-24 00:40:35+00:00,9814,353,5138,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:05:04+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/eVx6iUrdId,PeterS,Dark Side Of The Moon,Verbum Dei/ Omnia Vincit Amor/ The Truth Is Out There / AFC Ajax Amsterdam XXX/ Married to Jenny / VERITAS HBS #FreeNavalnyNow,2010-12-09 22:51:42+00:00,3015,3316,11404,,Twitter for iPhone,FALSE
+1.47058E+18,2021-12-14 02:04:51+00:00,"@deviantollam @MalwareMinigun @Cannibal @thepacketrat @AviationVillage @LawyerLiz I don't know who said it either, but here is the tweet from @TheASF talking about Apache Log4J being installed on the Helicopter on Mars :)
+
+https://t.co/VMqiU8Fsxt https://t.co/eOiW06UWNQ",Brian Ó hEoghanáin (Brian Honan) #BLM He/Him,"Dublin, Ireland","CEO of @bhconsulting, Blogger, Author, Founder & Head of Ireland's CSIRT @irisscert, & former Special Advisor on CyberSecurity to Europol.     PGP ID 0xF1B5CF7D",2008-04-01 20:13:54+00:00,36154,1717,8899,,TweetDeck,FALSE
+1.47058E+18,2021-12-14 02:04:24+00:00,"Like Omicron, Log4j has spawned several mutations already https://t.co/kDvmayqnRR #infosec #virus #sysadmin",Red B,,Entrepreneur and engineer #infosec #cybersecurity,2020-05-08 14:34:41+00:00,234,129,380,"['infosec', 'virus', 'sysadmin']",Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:04:08+00:00,"New cybersecurity flaw shows vulnerability in 'LOG4J,' which poses risk to thousands of products https://t.co/clW4T6Miwu",J. W.,United States,"Vintage Cowboy of the American West. Protector of all creatures Great & Small. Texan , Democrat, Photography, Painting",2014-01-02 16:06:05+00:00,19717,18017,130448,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:04:01+00:00,VMSA-2021-0028 &amp; Log4j: What You Need to Know https://t.co/9KSDpWWXvs,Sebastian,Singapore,"vExpert 17/18, 2 x VCAP, 2x VCP6, Powershell Enthusiast, Automation. Living in Singapore https://t.co/cD8kGu1YWG",2011-03-30 15:57:06+00:00,911,379,2284,,Dynamic Signal,FALSE
+1.47058E+18,2021-12-14 02:03:54+00:00,"NEW VIDEO!! with @TheRikeys!
+
+Fake HDMI 2.1, Log4j flaw, Toyota Remote Start + more!
+YT Link: https://t.co/wNNxDls3sQ
+News Sources: https://t.co/YxALZHLpN8 https://t.co/6bb1hNOvTJ",TechLinked,Central Pahk,"A thrice-weekly news show about tech + gaming culture, run by peeps from @linustech. Made from 100% carbon nanotubes.",2018-05-04 19:57:52+00:00,62086,39,324,,Twitter Media Studio,FALSE
+1.47058E+18,2021-12-14 02:03:23+00:00,"Oh damn dude, #Log4J seems to be a major issue - https://t.co/0k5JGSu31F",Shenuk Alles,Sri Lanka,"Amateur writer (@ShenukWrites), mobile freak, IT Geek. I find absolutely everything funny, offensive jokes ahead. Proud Roman Alcoholic🍺🥃. he/he",2010-01-19 04:16:37+00:00,3852,604,44870,['Log4J'],Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:03:12+00:00,The Log4J Vulnerability Will Haunt the Internet for Years https://t.co/PNhGyuIOf9,IT Security News - www.itsecuritynews.info,Worldwide,"#ITSecurityNews aggregated by @SMustaca. 
+Support us on Patreon: https://t.co/JO8GF29ELz
+#cybersecurity #malware #antivirus #defense #forensics #news #itsec",2011-11-25 07:17:06+00:00,9733,589,3,,WordPress.com,FALSE
+1.47058E+18,2021-12-14 02:03:09+00:00,log4j? more like log4gay,𝓓𝓻. 𝓜𝓸𝓷𝓮𝔂,the south,"It was all a dream, I used to read Dr. Dobbs magazine, Turbo Pascal and GORILLAS.BAS on my PC screen",2008-02-29 13:51:03+00:00,729,694,111232,,Twitter Web App,FALSE
+1.47058E+18,2021-12-14 02:03:05+00:00,"wow shit this is cooked
+
+can a #log4j hackerman ruin this website? https://t.co/DiAi4aHrjv",Amon Yüül II,Auckland,like a bump on a bump on a log,2016-06-09 14:35:01+00:00,689,601,6121,['log4j'],Twitter Web App,FALSE
+1.47057E+18,2021-12-14 02:02:51+00:00,"The @Citrix #log4j #log4j2 CTX article has received some significant updates. Cloud Connector, FAS, App Layering and others listed as not impacted. Statement on cloud services also. Check article for full details. https://t.co/g9a0MeZYpy",Martyn Dews,"Lancaster, England",Technical Account Manager @Citrix. Passionate about IT & tech and how it can make life easier. Hyundai IONIQ #EV owner. Views are my own.,2009-03-13 12:55:03+00:00,1414,619,11963,"['log4j', 'log4j2']",Twitter for Android,FALSE
+1.47057E+18,2021-12-14 02:02:45+00:00,@matthew_d_green @otakup0pe Apache wrongly announced that the original library was vulnerable to it and there appears to be some substantial bad blood between them and the author of the original library. Projects should definitely replace the abandoned original log4j but probably not with log4j2...,Daniel Micay,"Toronto, Ontario, Canada","Security researcher/engineer working on mobile privacy/security. Founder and lead developer of @GrapheneOS.
+
+Matrix: @strcat:https://t.co/4vylzJyOFK",2018-06-24 00:40:35+00:00,9814,353,5138,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 02:01:43+00:00,We need to talk about how much superfluous crap with an expansive surface area is needed to write to stderr  https://t.co/pJL9IEn0y7,Scott Bellware,"Austin, TX",Leans Science. Sciences Lean. Toyota Methodologies Enthusiast. Edwards Deming Student. Design Advocate. Co-Founder of @eventideproject and @message_db.,2008-07-28 19:25:24+00:00,1786,1037,900,,Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 02:01:32+00:00,Stolen memes #log4j #log4jshell https://t.co/Fa81zkq4Fk,ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ 👾 o.0,ㅤㅤ ㅤㅤᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠㅤ,ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ,2013-11-21 17:52:35+00:00,557,911,19585,"['log4j', 'log4jshell']",Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 02:01:09+00:00,"OH YESS! A fabulous blend of juicy blueberries and subtle vanilla. A total treat for the nose!
+
+https://t.co/6RvhweytjF
+
+#uk #handmade #candles #waxmelts #love #twitter #Christmas #SnowMan #Trending #f1 #NFTs #HappyBirthdayTaylorSwift #HappyLouisDay #SecretsOfDumbledore #log4j https://t.co/4ZMY7pvZpm",Boo & Jerry,"Spalding, England","LUXURY SOY CANDLES- HANDMADE IN LINCOLNSHIRE UK. 
+
+SIMPLE
+CLEAN
+ELEGANT
+
+https://t.co/2m4UypDY6e
+
+LAW STUDENT & CANDLEMAKER
+
+#candles #handmade #waxmelts",2017-01-16 15:35:05+00:00,2168,3283,16525,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 02:01:02+00:00,#log4j news: Six more today https://t.co/bi1uBdD6hc,Tux Machines,Everywhere,"https://t.co/vcCj1tvNwI - Do you waddle the waddle?    The best source of GNU/Linux and Free/Open Source Software news, reviews, and howtos on the Internet.",2011-11-20 20:26:06+00:00,965,0,5638,['log4j'],JoinDiaspora,FALSE
+1.47057E+18,2021-12-14 02:01:01+00:00,#log4j news: Six more today https://t.co/O7n750AtiC,Dr. Roy Schestowitz (罗伊),North Pole,Write-only account; follow/reply to me at Diaspora: https://t.co/ZdcAT4xIQo,2009-03-25 21:57:38+00:00,7380,939,59101,['log4j'],JoinDiaspora,FALSE
+1.47057E+18,2021-12-14 02:01:01+00:00,Log4j will not affect anyone competent as they wouldn't simply not used Java,Deez Nuts,,Employed by the NON-SPECIFIC AGENCY | I AM THE GREAT DECEIVER | Danish,2021-07-16 18:50:27+00:00,22,214,1971,,Twitter for Android,FALSE
+1.47057E+18,2021-12-14 02:00:47+00:00,"""#CISA sent out an alert Friday that the agency had added the flaw to its list of exploited vulnerabilities, and urged federal and civilian organizations to patch and take steps to mitigate harm immediately.""
+
+#infosec #Log4j #cybersecurity
+
+https://t.co/0eyIsbRlEi",Malware Patrol,USA and Brazil,"Since 2005, organizations have depended on #Malware Patrol’s reliable and historically rich #ThreatIntelligence to improve their #ThreatDetection and response.",2009-03-12 19:25:15+00:00,7437,1868,7129,['CISA'],Hootsuite Inc.,FALSE
+1.47057E+18,2021-12-14 02:00:32+00:00,The Log4J Vulnerability Will Haunt the Internet for Years   https://t.co/JHNtU6U46t,Today's News,,"Past Vet, IE, Inns/Restaurants. Home PAG.  Share News Markets,  Knowledge!  Learn something new everyday!!! https://t.co/guSYMc0hIG",2009-06-14 12:56:59+00:00,437,121,80,,Microsoft Power Platform,FALSE
+1.47057E+18,2021-12-14 02:00:31+00:00,@shehackspurple @wehackpurple That only works if logging isn’t depending on log4j and there isn’t a backup logging method in place. Buddy of mine tried it and broke the business.,Chris Israel Barker,Tokyo,"Jew in Japan, earning my bread in security for over 2 decades, 日本に住一般ユダヤ人、低スキルベースプレーヤー、元レゲエセレクター＆プロデューサー、80年代以降のメタルヘッド",2009-03-11 20:11:30+00:00,1343,1760,225915,,Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 02:00:30+00:00,"The Log4J Vulnerability Will Haunt the Internet for Years (Wired)
+
+A vulnerability in the open source Apache logging library Log4j sent system administrators a...
+
+Add your highlights:
+https://t.co/Q8AtxpvuX5
+ #infosec #informati...",Information Security Briefly,Internet,"A Info Sec community with less noise & more highlights
+on @briefly_tldr. Follow for an invite to join our open beta!",2015-08-02 18:21:40+00:00,7399,7830,30347,,Information Security PLOW,FALSE
+1.47057E+18,2021-12-14 02:00:27+00:00,"The Log4J Vulnerability Will Haunt the Internet for Years (Wired)
+
+A vulnerability in the open source Apache logging library Log4j sent system administrators a...
+
+Add your highlights:
+https://t.co/usK1ROR99j
+ #Privacy #privacyte...",Privacy Professionals Briefly,Internet,A Privacy Professionals community with less noise & more highlights on @briefly_tldr. Follow for an invite to join our open beta!,2014-07-12 21:14:48+00:00,8321,8867,37906,,Privacy Professionals PLOW,FALSE
+1.47057E+18,2021-12-14 02:00:15+00:00,@matthew_d_green @otakup0pe It's also not provided by the original log4j which is even now is still far more widely used by log4j2 despite being completely dead for a long time. The original developer of the original log4j wasn't involved in log4j2 but rather built other successor projects outside Apache.,Daniel Micay,"Toronto, Ontario, Canada","Security researcher/engineer working on mobile privacy/security. Founder and lead developer of @GrapheneOS.
+
+Matrix: @strcat:https://t.co/4vylzJyOFK",2018-06-24 00:40:35+00:00,9814,353,5138,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 02:00:06+00:00,What You Need to Know About Log4j: the Nasty Software Bug Posing a Major Threat to ... https://t.co/VApEf2lz3Y,SeCuRe CyBeR,255.255.255.255,"Try to keep up! BREAKING & up to the minute #cybersecurity #news from across the globe, #security tips and best practices. #cyber #infosec collaboration",2011-12-06 04:14:04+00:00,16189,1095,1,,CLI for T,FALSE
+1.47057E+18,2021-12-14 02:00:06+00:00,"Cyber Security Today, Dec. 13, 2021 - The hunt for apps with log4j vulnerabilities continues ... https://t.co/jQx9nFw55q",SeCuRe CyBeR,255.255.255.255,"Try to keep up! BREAKING & up to the minute #cybersecurity #news from across the globe, #security tips and best practices. #cyber #infosec collaboration",2011-12-06 04:14:04+00:00,16189,1095,1,,CLI for T,FALSE
+1.47057E+18,2021-12-14 02:00:03+00:00,What You Need to Know About Log4j: the Nasty Software Bug Posing a Major Threat to … https://t.co/HIolftP6G7,SeCuRe CyBeR,255.255.255.255,"Try to keep up! BREAKING & up to the minute #cybersecurity #news from across the globe, #security tips and best practices. #cyber #infosec collaboration",2011-12-06 04:14:04+00:00,16189,1095,1,,CLI for T,FALSE
+1.47057E+18,2021-12-14 01:59:42+00:00,that dude who requested that log4j feature back in 2013 gotta be feeling like this rn https://t.co/8wqN2GDZVh,tom,::1/128,i invented times new roman / infosec / ✝️ ☭,2016-05-23 02:55:38+00:00,433,316,46006,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:59:22+00:00,I blame Typescript for log4j https://t.co/IKzogmafKz,🍄🎄🌼🌈🎮☕🚲💻🐩🥓🛻🇺🇸♓🌹🏴🪙,,"Web3, militant cyclist, chaotic-neutral, BLM/ACAB, can't be fucked, ey/em",2021-02-20 23:49:26+00:00,200,1465,18990,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:59:20+00:00,"“how many people were using using this #software. This is basically half of the world, maybe even more”
+
+#Log4j
+
+ https://t.co/YtteZVBGY3",John Evdokias,"Montreal, Canada",We do a decent job at managing money.,2012-08-30 15:36:57+00:00,988,4988,2,"['software', 'Log4j']",Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 01:59:20+00:00,What You Need to Know About Log4j: the Nasty Software Bug Posing a Major Threat to Small Businesses https://t.co/QIcRrG9VZG,Dorado News,,"Your #1 trusted source for national and international breaking news
+#politics
+#business
+#entertainment
+#sports 
+#lifestyle 
+follow us @Newsdorado",2020-07-07 15:29:23+00:00,31,203,342,,WordPress.com,FALSE
+1.47057E+18,2021-12-14 01:59:08+00:00,Scan your Cloud Integration tenant for Log4j libraries with CPILint https://t.co/JqVsyd7J3m,David Caspillo,"Bay Area, CA.","Comerit Managing Partner, SAP Cloud Data experts. Leader in S/4, Advanced Analytics, and Artificial Intelligence",2011-08-05 16:51:20+00:00,174,344,100,,dlvr.it,FALSE
+1.47057E+18,2021-12-14 01:59:04+00:00,"Log4j RCE latest: In case you hadn't noticed, this is Really Very Bad, exploited in the wild, needs urgent patching https://t.co/PqZ2CBsfBS (Register)",IT DataSecurity News,London UK,IT Professional with an Interest in IT Data Information Security & ISO27001 Certification in the UK. Keeping an eye on IT Data Security News,2010-04-07 12:35:12+00:00,3780,1551,7,,dlvr.it,FALSE
+1.47057E+18,2021-12-14 01:58:54+00:00,"Reminder if you are relying on your agent inventory based scanner to alert for log4j detection, double check the detection methods used before considering it 100% accurate. I'm seeing iCloud client detections in MS Defender, but nowhere else so far.",RichieB,"Chicago, IL","InfoSec Nerd - Boater - Fan of Battleships
+aka Richipedia. 
+Degrees, Certs, Experience and I still sometimes wonder why I didn't become a welder.",2015-09-26 01:57:19+00:00,132,421,2800,,Twitter for Android,FALSE
+1.47057E+18,2021-12-14 01:58:36+00:00,"Log4j Vulnerability Activity on the HackerOne Platform
+
+#bugbounty
+#bugbountytips
+#infosec
+
+https://t.co/hL7Ns1HILP",Bug bounty notes,,account for sharing infosec and bug bounty related stuff.,2020-10-08 07:53:10+00:00,1756,0,19,"['bugbounty', 'bugbountytips', 'infosec']",Twitter for Android,FALSE
+1.47057E+18,2021-12-14 01:58:35+00:00,Patch Now Apache Log4j Vulnerability Called Log4Shell Actively Exploited https://t.co/87pn0xNWTw,ohhara_P🧐Slow life in the countryside,JAPAN,第7回サイバーセキュリティ勉強会2022 in 塩尻(2022/2/26) https://t.co/JilTxpL5QD #shiojiri_oss TCP/IP IPv6 DNS Linux ThinkPad 自作PC アニメ PCゲーム ホラー,2009-09-23 06:59:44+00:00,2046,1659,3136,,TweetDeck,FALSE
+1.47057E+18,2021-12-14 01:57:40+00:00,"#Security company ⁦@cybereason⁩ offers #Log4j '#vaccine' for systems that can't be updated immediately.  #Cybereason has released what they called a ""fix"" for the #zeroday #exploit. ⁦@dynamicCISO⁩ #100daysofcode #log4shell #girlswhocode  https://t.co/TFoeOEIQjR",Rahul Neel Mani,"Gurgaon, India","Believe in humanity, welfare and harmony. Journalist by profession. Entrepreneur by accident. Photographer by passion",2008-02-18 04:07:03+00:00,3832,3715,20121,"['Security', 'Log4j', 'vaccine']",Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 01:57:36+00:00,"List of components and services affected by the log4j/log4shell exploit. The exploit is allegedly linked to several recent cyber breaches.  
+https://t.co/X1TK9lDnQ6",Data Ethics PH,Philippines,Discussions on the ethical use of data and social good from data science and analysis. Data rights are human rights. Social problems are data problems.,2020-03-25 05:50:45+00:00,1441,409,628,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:57:35+00:00,@dmuth @wbm312 Now I wonder if Log4j is on smart fridges.,Wayne Dixon,Aurora IL,"Author, Blogger, Developer (Web and iOS), and Podcaster (@_oddworldnews).",2007-01-29 01:59:22+00:00,1401,1227,126925,,Tweetbot for iΟS,FALSE
+1.47057E+18,2021-12-14 01:57:16+00:00,"Volt ultra is available on https://t.co/iBjxVLIfp6
+#SecretsOfDumbledore #Succession #MissUniverse2021 #MissUniverse #AbuDhabiGP #log4j #OmicronVirus #UmarRiaz #WeLoveYouJimin #แอนชิลี #KaranIsTheBoss #hepinizsustunuz #BamBam #JUNGKOOK #SuccessionHBO https://t.co/1JL7N31uFF",VOLT E BYK,,Check our new electric and normal bicycles on https://t.co/ZOkr7r2eEE,2021-10-09 07:08:29+00:00,5,1,11,"['SecretsOfDumbledore', 'Succession', 'MissUniverse2021', 'MissUniverse']",Twitter for Android,FALSE
+1.47057E+18,2021-12-14 01:57:09+00:00,How do you begin to explain how crazy this log4j stuff is to the non-technical people in your life? Watching my co's internal response has been great though. So many people coordinating the response.,Joel Kinzel,USA,"Mostly reasonable human. Not nearly as funny as he thinks. Here for the really bad hot takes. I'm not an expert, I just play one on Twitter. He/Him.",2018-10-14 22:35:42+00:00,56,91,1487,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:57:04+00:00,Jailbreak a ps5 using the log4j hiding in the bluray subsystem,LIVING THAT NFT LIFE ON THE BLOCKCOIN,"Pittsburgh, PA",I make music | I work @PittLibraries | Father | Lymphoma Survivor | he/him | Do you have my Tascam 414 | Abolish the Second Amendment and Confiscate All Guns,2007-02-02 19:47:55+00:00,462,1144,9656,,Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 01:57:04+00:00,This was probably shared a million times but whatever. A relevant xkcd for #log4j mess: https://t.co/AU2CIo93qQ,Maciek Kumorek,"Seattle, WA","Software Engineer at Smartsheet, previously Microsoft.",2009-09-28 12:14:18+00:00,310,1385,1038,['log4j'],Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:56:53+00:00,"I hate you, java. My dog hates you too. #log4j #java https://t.co/WS9bRlqGbo",Jon Prentice,,,2008-12-31 17:53:29+00:00,481,610,3,"['log4j', 'java']",Instagram,FALSE
+1.47057E+18,2021-12-14 01:56:35+00:00,"Log4j doesn't just blow a hole in your servers, it's reopening up that can of worms: Is Big Tech exploiting open so… https://t.co/loPEyqmqcS",The Register,NA-EMEA-APAC,Enterprise technology news and views for the world – Biting the hand that feeds IT – Tell us what's going on: news@theregister.com – Part of the @SitPub family,2009-09-28 13:24:46+00:00,99973,72,5272,,Vulture Central,FALSE
+1.47057E+18,2021-12-14 01:55:54+00:00,"Great work by Bloomberg here on story to fix log4j.
+https://t.co/M18xs0wI7V",BokehSec,Canada,The more I learn the less confident I am in what I know,2020-01-11 13:52:21+00:00,20,254,282,,Tweetbot for Mac,FALSE
+1.47057E+18,2021-12-14 01:55:46+00:00,boutta log4j the shit outta the next spam text i get,alejandro,he/him,dorceless,2020-08-21 19:08:34+00:00,133,274,60999,,Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 01:54:48+00:00,"I wonder why so many programs have updates today?
+
+I'm guessing it's got something to do with log4j.",Scott C,,,2010-09-15 00:16:56+00:00,28,178,14961,,Twitter for Android,FALSE
+1.47057E+18,2021-12-14 01:54:40+00:00,"@SwitHak Response from Acquia, my employer: https://t.co/pvzjsu7bpn",Richard Brynj ó l f s s o n,"Toronto, Ontario","Elsewhere:
+
+• 🇮🇸🇨🇦 @ICCTTweets
+• 6️⃣ @GDNAToronto
+• 🤖 @justagwailo
+• 🎮 @thegamingyears
+• 📖 @sglisreading
+• 💧 @e14t
+• 🇨🇦💉 @fullyjabbedCA",2006-11-22 01:29:48+00:00,889,491,22601,,Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 01:54:18+00:00,"Might be cyber-world in a different pickle for now cause of #log4j  biggest vulnerability so far, a little Birdie told that hacker's might be know about it already I mean hello? Ofc it's a blanket statement that's why companies systems/services are at risk atm.
+#cybersecurity",Sawood ☺,,"Security Analyst | Bug Bounty Hunter | Content Writer | Researcher 
+Seek discomfort 👋",2014-03-19 10:25:49+00:00,105,510,945,['log4j'],Twitter for Android,FALSE
+1.47057E+18,2021-12-14 01:54:11+00:00,#log4j 2.16 has been published. https://t.co/3MsjjtQwTP #log4jRCE #Log4Shell #CVE202144228 #infosec #infosecurity #CyberSec #CyberSecurity #CyberSecurityAwareness https://t.co/ChujqL8THG,Kyle,"Tennessee, USA","Incident Response ➡️Threat & Vulnerability Management & AppSec | Cybersecurity aficionado | Jack of all trades, master of none",2021-10-01 04:53:06+00:00,15,134,77,"['log4j', 'log4jRCE', 'Log4Shell', 'CVE202144228', 'infosec', 'infosecurity']",Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 01:53:57+00:00,"The regex for catching all attempts is quickly reaching * 
+
+#log4j #log4jshell 
+
+https://t.co/MUSvfx9zCb",_MG_,,"I was a terror since the public school era. —Posts = personal work, sometimes cataloged to https://t.co/MiWIXk44cL. — Projects turned “product” = https://t.co/cwueEOekKv",2008-04-24 18:37:20+00:00,31112,562,7517,"['log4j', 'log4jshell']",Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:53:05+00:00,Can't over-work on log4j patching if you're also quarantined to your home workspace due to symptomatic+exposure for COVID https://t.co/dwETMmmHMh,Mike Bailey,Philly,Eng @ a threat intel company. He/him. Tweets are not employer takes. Cheesesteaks. Cloud. ex-DFIR.,2019-11-01 22:47:30+00:00,248,285,17493,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:53:01+00:00,#log4j can someone put me in the path of a  docker container system that is running log4j app on linux so i can test some stuff in a lab setup,wabafet,N/A Out Of Scope Status Banned,I'm a passionate self taught researcher that likes to bug bounty hunt and program,2021-04-22 00:45:14+00:00,732,878,7103,['log4j'],Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:52:57+00:00,Where the Latest #Log4Shell Attacks Are Coming From. Analysts find at least 10 #Linux #botnets actively exploiting Log4Shell flaw. #log4j ⁦@dynamicCISO⁩ #cyberattack #malware #100daysofcode #Apache #girlswhocode #cybersecurity #infosec #ciso  https://t.co/dHRKJtzTn5,Rahul Neel Mani,"Gurgaon, India","Believe in humanity, welfare and harmony. Journalist by profession. Entrepreneur by accident. Photographer by passion",2008-02-18 04:07:03+00:00,3832,3715,20121,"['Log4Shell', 'Linux', 'botnets']",Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 01:52:54+00:00,Log4Shell Is Spawning Even Nastier Mutations | Threatpost https://t.co/TOPSxpZiU1,ohhara_P🧐Slow life in the countryside,JAPAN,第7回サイバーセキュリティ勉強会2022 in 塩尻(2022/2/26) https://t.co/JilTxpL5QD #shiojiri_oss TCP/IP IPv6 DNS Linux ThinkPad 自作PC アニメ PCゲーム ホラー,2009-09-23 06:59:44+00:00,2046,1659,3136,,TweetDeck,FALSE
+1.47057E+18,2021-12-14 01:52:47+00:00,"Still maintaining a project using #log4j 1.2.x, together with #struts 2.1.x 😅😂，and currently having trouble mitigating this vulnerability. Wish I could have a chance to use some good stuff learned from @starbuxman 😭 https://t.co/9uWBnaK6QW",招文桃,Guangdong,Love #springframework 🌿 & #jhipster. Big fan of Josh Long. @starbuxman #JavaCertified #OCP11,2015-05-03 19:23:23+00:00,60,975,2345,"['log4j', 'struts']",Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:52:33+00:00,You are also welcome to join the conversations in the #Fortinet Community Forums (https://t.co/MfHLkS2Rzm) where several aspects around the vulnerability are being discussed.,Martin Hoz,Mexico City,"IT/cybersecurity fan. Latin America. Love this Planet. Justice+Fairness. Personal account: my opinions. Tweet not an agreement, RT not an endorsement. ES EN PT",2008-05-26 14:29:53+00:00,1823,3580,24880,['Fortinet'],Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:52:32+00:00,"- For how the #Fortinet Security Fabric can protect your digital assets against attempts of #log4j exploitation, please refer to this #FortiGuard Outbreak Alert: https://t.co/jLUS8DYc1U",Martin Hoz,Mexico City,"IT/cybersecurity fan. Latin America. Love this Planet. Justice+Fairness. Personal account: my opinions. Tweet not an agreement, RT not an endorsement. ES EN PT",2008-05-26 14:29:53+00:00,1823,3580,24880,"['Fortinet', 'log4j']",Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:52:31+00:00,"- For details about the #log4j Vulnerability, what is it about, impact and telemetry, please refer to the #FortiGuard Labs Threat Signal Report: https://t.co/iTtwM6msMl",Martin Hoz,Mexico City,"IT/cybersecurity fan. Latin America. Love this Planet. Justice+Fairness. Personal account: my opinions. Tweet not an agreement, RT not an endorsement. ES EN PT",2008-05-26 14:29:53+00:00,1823,3580,24880,['log4j'],Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:52:31+00:00,"#Log4j was a hot topic over the weekend. And remains so.
+If you are a #Fortinet customer or partner, in this thread there is some information you should be aware of:
+
+👇",Martin Hoz,Mexico City,"IT/cybersecurity fan. Latin America. Love this Planet. Justice+Fairness. Personal account: my opinions. Tweet not an agreement, RT not an endorsement. ES EN PT",2008-05-26 14:29:53+00:00,1823,3580,24880,"['Log4j', 'Fortinet']",Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:52:21+00:00,Explainer: The Log4j vulnerability is regarded as a serious threat to cybersecurity. Here’s what companies need to know.  https://t.co/gQYcVbfLwr via @WSJ @WSJCyber,Kim Nash,NY,"Deputy Editor—The Wall Street Journal, Pro Cybersecurity. Corporate and government cybersecurity issues, offensive and defensive",2007-12-19 17:42:11+00:00,8360,2419,4962,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:52:11+00:00,Some customers have asked about a recent security vulnerability alert and we can assure you we do not utilize log4j in our codec firmware at all. Rest assured there are no issues with current or legacy Tieline codecs in relation to CVE-2021-44228.,Tieline,"Indianapolis, IN","Tieline the Codec Company builds the world's most robust and innovative IP, ISDN and POTS audio codecs for remotes, audio distribution and STLs.",2009-04-19 09:59:41+00:00,950,523,1278,,Hootsuite Inc.,FALSE
+1.47057E+18,2021-12-14 01:51:51+00:00,"@simplestpotato log4j, exposed networks, Risk!!! and emotions pouring out of my face.
+Pizza good",/dev/cat ニャー,Inside your computer,"Lots of cat pics,
+Occasional ITSec shitPosting,
+She/her/robot",2021-10-23 01:28:59+00:00,36,84,13008,,Twitter Web App,FALSE
+1.47057E+18,2021-12-14 01:51:47+00:00,"CEOs, here’s more about what you can do to support the CISO and CIO and their teams through the  #log4j remediation. From @PwCUS @Sean_M_Joyce @JoeNocera_PwC Matt Gorham https://t.co/SG267WCDoo",Cʀɪsᴛɪɴᴀ Aᴍᴘɪʟ,New York,Management engineer. Lover of art science math and economic policy. PwC Editorial Leader #Cyber and #Privacy @PwCUS Views my own. 👏🏼 #BigIdeas #GoodPeople,2009-06-20 10:57:22+00:00,1009,742,9892,['log4j'],Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 01:51:17+00:00,"Article: What You Need to Know About Log4j: the Nasty Software Bug Posing a Major Threat to Small Businesses -
+
+https://t.co/Ajy1nFMXmh",Joel Libava,"Cleveland, OH",The Franchise King® |  Author of Two Incredibly Useful Books On Buying/Researching Franchises. I Can Help You A Lot: https://t.co/hcS7v8Dx9a #thefranchiseking,2007-05-22 12:47:38+00:00,16045,1659,22909,,TweetCaster for Android,FALSE
+1.47057E+18,2021-12-14 01:50:57+00:00,Log4j https://t.co/3CloBsi9bI,Jeg,Fuck off,"GIF abuser who is not a crustacean from the paleolithic era. Avatar by the talented: https://t.co/sHeJZ1SGcl. ps, Boobs are cool.",2009-04-23 19:36:05+00:00,397,388,11737,,Twitter for iPhone,FALSE
+1.47057E+18,2021-12-14 01:50:24+00:00,"After an internal review to determine whether StorageCraft products are impacted by #log4j, we found no evidence of any exploitation of this vulnerability in any StorageCraft products. We will continue to monitor and assess the situation and provide further updates as necessary.",StorageCraft,"Draper, Utah","Business Continuity Starts Here... As an Arcserve company, we keep your data safe through innovative disaster recovery, migration, disk & data backup solutions.",2009-05-08 23:22:08+00:00,7685,2406,2542,['log4j'],Twitter Web App,FALSE
